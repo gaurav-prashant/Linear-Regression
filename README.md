@@ -1,1 +1,3 @@
 # Linear-Regression
+
+This Simple Linear Regression project demonstrates how linear regression can be used to model and predict relationships between two variables using Python. The project covers data loading, preprocessing, exploratory data analysis, and model implementation using a single independent variable to predict a dependent outcome. It explains the mathematical intuition behind linear regression and evaluates model performance using appropriate metrics and visualizations. The notebook provides a clear, step-by-step workflow suitable for beginners in machine learning and data science. This project serves as a practical introduction to predictive modeling and regression analysis with real-world data.
